@@ -7,6 +7,10 @@ public class Bicicleta {
     private double velocidad;
     private String color;
 
+    public Bicicleta(){
+
+    }
+
     public double getVelocidad() {  return velocidad;  }
     public int getPins() {  return pins;  }
     public int getRodado() {  return rodado;  }

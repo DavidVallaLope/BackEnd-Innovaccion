@@ -11,6 +11,8 @@ public class Hello {
         b.setRodado(24);
         b.setVelocidad(50);
         b.setColor("Negra");
+
+
         String msg = "Soy una bici de montana con estas caracteristicas";
         msg += "\nColor: "+b.getColor();
         msg += "\nVelocidad: "+b.getVelocidad();
